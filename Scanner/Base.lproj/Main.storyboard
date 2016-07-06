@@ -547,7 +547,7 @@
         </scene>
     </scenes>
     <resources>
-        <image name="defaultPhoto" width="128" height="128"/>
+        <image name="defaultPhoto" width="64" height="64"/>
     </resources>
     <inferredMetricsTieBreakers>
         <segue reference="K9P-Ch-Ouu"/>
